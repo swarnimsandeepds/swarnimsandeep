@@ -60,8 +60,6 @@ I’ve worked with early-stage teams, research labs, founders, and enterprise st
 
 ## 🚀 **Selected Projects**
 
-### **🔸 MethaSense — AI for Biogas Optimization (Founder Project)**
-Building an AI-driven methane production forecasting & plant optimization tool for energy operators.
 
 ### **🔸 BinBuddy — AI Waste-to-Worth Platform**
 Defined product vision, user stories, and workflows for an AI-driven operations platform.
